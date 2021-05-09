@@ -6,7 +6,7 @@ Scandium 2 is a lightweight, browser-based discord client.
 ## Installation: 
 1] [Download](https://discordjs.guide/preparations/setting-up-a-bot-application.html) this repository.
 
-2] Head over to https://discordjs.guide/preparations/setting-up-a-bot-application.html and follow the steps to set up a bot application.
+2] Head over to *https://discordjs.guide/preparations/setting-up-a-bot-application.html* and follow the steps to set up a bot application.
 
 3] Replace `YOUR_TOKEN_HERE` in the file `botsettings.json` with the token of your application.
 
