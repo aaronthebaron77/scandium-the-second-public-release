@@ -12,8 +12,7 @@ Scandium 2 is a lightweight, browser-based discord client.
 
 4] [Install](https://nodejs.org/en/download/) Node.js.
 
-5] Invite the bot to a discord server by filling in this template url:
-   ```https://discord.com/api/oauth2/authorize?client_id=BOT_ID_HERE&permissions=8&scope=bot*```
+5] Invite the bot to a discord server by filling in this template url: https://discord.com/api/oauth2/authorize?client_id=BOT_ID_HERE&permissions=8&scope=bot*
 
 6] Open up command prompt in the root directory of the project folder and run the command `node bot.js`. This should bring the bot online.
 
